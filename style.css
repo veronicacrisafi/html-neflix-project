@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:none;
+}
+
+.home{
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.foglio{
+    background-color:black;
+    
+}
+
+/*--title Netflix--*/
+
+#title{
+    text-align: center;
+    color:white;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    font-size:70px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+/*--end title Netflix--*/
+
+
+/*--#region img--*/
+
+.foto{
+width:200px;
+height: 203px;
+border-radius: 5%;
+margin:20px;
+}
+
+.add-profile{
+width:200px;
+height: 200px;
+border-radius: 5%;
+margin:20px;
+border-style: solid;
+border-color: grey;
+}
+/*--end region img--*/
+
+/*-- ul style--*/
+.choose-profile{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.nome-profilo{
+    color: white;
+    text-align: center;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+.aggiungi-profilo{
+    color: white;
+    text-align: center;
+    font-size: small;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+/*-- end ul style--*/
+
+
+/*-- button menage profiles--*/
+
+#menage-profiles{
+ font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+ margin:40px;
+ height: 45px;
+ width: 200px;
+ background-color: black;
+ color:grey;
+ border:1px solid grey;
+ font-size:18px;
+
+}
+
+.end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 50px 200px 50px;
+}
+
+
+
+
+
+
