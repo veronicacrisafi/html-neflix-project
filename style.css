@@ -11,7 +11,7 @@
 }
 
 .foglio{
-    background-color:black;
+    background-color:#141414;
     
 }
 
@@ -76,7 +76,7 @@ border-color: grey;
  margin:40px;
  height: 45px;
  width: 200px;
- background-color: black;
+ background-color: #141414;
  color:grey;
  border:1px solid grey;
  font-size:18px;
