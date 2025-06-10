@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    border:none;
+    box-sizing: border-box;
 }
 
 .home{
@@ -89,9 +89,3 @@ border-color: grey;
     align-items: center;
     margin: 50px 50px 200px 50px;
 }
-
-
-
-
-
-
